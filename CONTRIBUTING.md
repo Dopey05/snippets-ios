@@ -2,7 +2,7 @@
 
 We'd love for you to contribute to our source code and to make it even better than it is today! Here are the guidelines we'd like you to follow:
 
- - [Code of Conduct](#coc)
+ - [Code of Conduct][def]
  - [Question or Problem?](#question)
  - [Issues and Bugs](#issue)
  - [Submission Guidelines](#submit)
@@ -171,3 +171,4 @@ changes to be accepted, the CLA must be signed. It's a quick process, we promise
 [google-cla]: https://cla.developers.google.com
 [style-guide]: http://google.github.io/styleguide/
 [stackoverflow]: http://stackoverflow.com/questions/tagged/firebase
+[def]: #coc
